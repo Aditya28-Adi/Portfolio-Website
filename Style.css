@@ -469,16 +469,16 @@ a:hover
 #project2
 {
     margin-left: 120px;
-    background-image: url(/Images/Projects/Project2.png);
+    background-image: url(./Images/Projects/Project2.png);
 }
 #project3
 {
-    background-image: url(/Images/Projects/Project3.png);
+    background-image: url(./Images/Projects/Project3.png);
 }
 #project4
 {
     margin-left: 120px;
-    background-image: url(/Images/Projects/Project4.png);
+    background-image: url(./Images/Projects/Project4.png);
 }
 @media (max-width:1300px) 
 {
